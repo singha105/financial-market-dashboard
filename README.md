@@ -28,4 +28,3 @@ Built with **Python (pandas, yfinance)** for ingestion, **MySQL** for storage, a
 
 ---
 
-## 📂 Repository Structure
